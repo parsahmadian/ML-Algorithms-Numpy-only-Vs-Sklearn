@@ -6,6 +6,10 @@
 - API design 🏡
 
 --- 
+<br>
+
+> [!IMPORTANT]
+> This repository is not a tutorial. For conceptual explanations, derivations, and visual intuition, please refer to the linked algorithm-specific repositories
 
 Algorithm             | Numpy | Scikit-learn | Deep Dive
 --------------------- | ----- | ------------ | ---------
@@ -13,7 +17,4 @@ KNN                   | ✅    | ✅           | [🔗](https://github.com/parsa
 K-Means               | ✅    | ✅           | [🔗](https://github.com/parsahmadian/K-Means-Numpy-only)
 Linear Regression     | ✅    | ✅           | [🔗](https://github.com/parsahmadian/Linear-Regression-Numpy-only)
 Logistic Regression   | ✅    | ✅           | [🔗](https://github.com/parsahmadian/Logistic-Regression-Numpy-only)
-
-> [!IMPORTANT]
-> This repository is not a tutorial. For conceptual explanations, derivations, and visual intuition, please refer to the linked algorithm-specific repositories
 
